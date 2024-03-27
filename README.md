@@ -1,13 +1,12 @@
 ### Hi there 👋 Welcome to my GitHub profile. I'm Emmanuel Shisoka , a passionate full-stack developer with expertise in various technologies. Here's a brief overview of what you'll find in my repositories:
 
 
-Here are some ideas to get you started:
 
 - 🔭**Skills**
   
 ⚡ Frontend: Vue.js, React.js
 
-⚡ Backend: PHP, Laravel
+⚡ Backend: PHP, Laravel, Node Js, Django
 
 ⚡ Scripting: Python,Java
 
