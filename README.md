@@ -4,12 +4,19 @@
 Here are some ideas to get you started:
 
 - 🔭**Skills**
+  
 ⚡ Frontend: Vue.js, React.js
+
 ⚡ Backend: PHP, Laravel
+
 ⚡ Scripting: Python,Java
+
 -⚡ Mobile Development: Kotlin, React Native, Flutter
+
 - 📫 Feel free to reach out if you have any questions, suggestions, or just want to connect info@shisoka.xyz
+
 **What You'll Find Here**
+
 I love to experiment with different technologies and build projects that are not only functional but also aesthetically pleasing. You'll find a mix of personal projects, contributions to open source, and maybe even some tutorials or guides I've put together.
 
 
