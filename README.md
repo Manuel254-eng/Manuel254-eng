@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub profile. I'm Emmanuel Shisoka , a passionate full-stack developer with expertise in various technologies. Here's a brief overview of what you'll find in my repositories:
 
-<!--
-**Manuel254-eng/Manuel254-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭**Skills**
+⚡ Frontend: Vue.js, React.js
+⚡ Backend: PHP, Laravel
+⚡ Scripting: Python,Java
+-⚡ Mobile Development: Kotlin, React Native, Flutter
+- 📫 Feel free to reach out if you have any questions, suggestions, or just want to connect info@shisoka.xyz
+**What You'll Find Here**
+I love to experiment with different technologies and build projects that are not only functional but also aesthetically pleasing. You'll find a mix of personal projects, contributions to open source, and maybe even some tutorials or guides I've put together.
+
+
