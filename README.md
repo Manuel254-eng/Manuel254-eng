@@ -22,9 +22,7 @@ I love to experiment with different technologies and build projects that are not
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel254-eng)](https://github.com/anuraghazra/github-readme-stats) 
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--🌯GITHUBTERMINALSTATS💻 / 🌐WEBSITE: https://github.com/ironmaniiith/Github-profile-name-writer -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/github-stats-terminal-style/master/github_stats.svg">
+
 
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
