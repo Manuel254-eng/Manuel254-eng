@@ -24,9 +24,7 @@ I love to experiment with different technologies and build projects that are not
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
-<!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<img src="https://github-readme-stats-hqxszzea3-trinib.vercel.app/api?username=trinib&show_icons=true&theme=merko&border_color=599200">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel254-eng&show_icons=true&theme=radical)
 
 <!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
 <img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=trinib&theme=merko&border=599200">
