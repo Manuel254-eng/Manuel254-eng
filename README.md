@@ -27,7 +27,7 @@ I love to experiment with different technologies and build projects that are not
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=Manuel254-eng&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 45%;">
 
-    <!-- Streak Stats -->
+ =
     <img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=Manuel254-eng&theme=merko&border=599200" alt="GitHub Streak Stats" style="width: 45%;">
 </div>
 
