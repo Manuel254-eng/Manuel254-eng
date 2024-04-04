@@ -23,10 +23,8 @@ I love to experiment with different technologies and build projects that are not
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div style="display: flex; justify-content: space-between;">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Manuel254-eng&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 45%;">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel254-eng&show_icons=true&theme=radical)
 
-    <img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=Manuel254-eng&theme=merko&border=599200" alt="GitHub Streak Stats" style="width: 45%;">
-</div>
+<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
+<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=Manuel254-eng&theme=merko&border=599200">
 
