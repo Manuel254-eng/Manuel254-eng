@@ -1,6 +1,7 @@
 ### Hi there 👋 Welcome to my GitHub profile. I'm Emmanuel Shisoka , a passionate full-stack developer with expertise in various technologies. Here's a brief overview of what you'll find in my repositories:
 
-
+<p align="center">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 - 🔭**Skills**
   
