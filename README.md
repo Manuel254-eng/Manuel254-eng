@@ -18,4 +18,4 @@
 
 I love to experiment with different technologies and build projects that are not only functional but also aesthetically pleasing. You'll find a mix of personal projects, contributions to open source, and maybe even some tutorials or guides I've put together.
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel254-eng)](https://github.com/anuraghazra/github-readme-stats)
