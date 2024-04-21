@@ -23,8 +23,4 @@ I love to experiment with different technologies and build projects that are not
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel254-eng&show_icons=true&theme=radical)
-
-<!--📊STREAKSTATSGRAPH / 🌐WEBSITE: https://github.com/denvercoder1/github-readme-streak-stats -->
-<img src="https://github-readme-streak-stats-fyclg7hvg-trinib.vercel.app/?user=Manuel254-eng&theme=merko&border=599200">
 
