@@ -24,3 +24,5 @@ I love to experiment with different technologies and build projects that are not
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
+<a href="https://emoji.gg/emoji/4427-monsterenergydrink"><img src="https://cdn3.emoji.gg/emojis/4427-monsterenergydrink.png" width="64px" height="64px" alt="MonsterEnergyDrink"></a>
+Monster and Code
