@@ -13,7 +13,7 @@
 
 -⚡ Mobile Development: Kotlin, React Native, Flutter
 
-- 📫 Feel free to reach out if you have any questions, suggestions, or just want to connect info@shisoka.xyz
+- 📫 Feel free to reach out if you have any questions, suggestions, or just want to connect shisokamanuel@gmail.com
 
 **What You'll Find Here**
 
