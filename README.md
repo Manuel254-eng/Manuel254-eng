@@ -5,11 +5,11 @@
 
 - 🔭**Skills**
   
-⚡ Frontend: Vue.js, React.js
+⚡ Frontend frameworks: Vue.js, React.js
 
-⚡ Backend: PHP, Laravel, Node Js, Django
+⚡ Backend Frameworks: Laravel, Node Js, Django, .NET
 
-⚡ Scripting: Python,Java
+⚡ Languages: Python,Java, PHP, C#
 
 -⚡ Mobile Development: Kotlin, React Native, Flutter
 
