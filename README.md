@@ -7,7 +7,7 @@
   
 ⚡ Frontend frameworks: Vue.js, React.js
 
-⚡ Backend Frameworks: Laravel, Node Js, Django, .NET
+⚡ Backend Frameworks: Laravel, Node Js, Django, Spring boot
 
 ⚡ Languages: Python,Java, PHP, C#
 
