@@ -1,38 +1,171 @@
 
-<b>Emmanuel Shisoka | Software Engineer</b>
-<style>
-:root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#0d1117;color:#e6edf3;font:16px/1.7 system-ui,-apple-system,Segoe UI,sans-serif}main{max-width:1040px;margin:auto;padding:50px 24px 70px}h1{font-size:clamp(2.1rem,5vw,3.4rem);margin:0}h2{margin:48px 0 18px;font-size:1.5rem;border-bottom:1px solid #30363d;padding-bottom:10px}h3{margin:22px 0 12px;color:#b7c7d9;font-size:1rem}p{color:#aab8c6}.subtitle{font-size:1.13rem;color:#58a6ff;margin:6px 0 24px}.intro{max-width:850px}.badges{display:flex;flex-wrap:wrap;gap:8px}.badges img{height:29px;max-width:100%}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}.card{border:1px solid #30363d;border-radius:12px;padding:20px;background:#161b22}.card strong{color:#f0f6fc}.card p{margin:8px 0 0}.stats{display:flex;flex-wrap:wrap;justify-content:center;gap:14px}.stats img{max-width:100%;height:auto}.project{border-left:3px solid #238636;padding:5px 18px;margin:20px 0}.project h3{margin:0}a{color:#58a6ff}footer{text-align:center;margin-top:55px;border-top:1px solid #30363d;padding-top:24px;color:#8b949e}.hero-label{font-size:.85rem;color:#3fb950;text-transform:uppercase;letter-spacing:.12em;font-weight:700}.contact{display:flex;gap:10px;flex-wrap:wrap}.contact a{display:inline-block;background:#21262d;border:1px solid #30363d;border-radius:8px;padding:8px 16px;text-decoration:none}.contact a:hover{background:#30363d}@media(max-width:600px){main{padding:32px 18px}}
-</style></head><body><main>
-<header><div class="hero-label">Software Engineering Portfolio</div><h1>Hi, I'm Emmanuel Shisoka 👋</h1><div class="subtitle">Software Engineer | Full-Stack Developer | Backend &amp; Systems Engineering</div>
-<p class="intro">I'm a software engineer focused on building scalable, secure, and reliable applications. My experience spans enterprise financial systems, backend architecture, full-stack development, payment integrations, and production infrastructure.</p>
-<p class="intro">I enjoy solving complex problems, exploring new technologies, and transforming ideas into real-world software solutions.</p></header>
-<section><h2>🛠️ Tech Stack</h2><h3>Languages</h3><div class="badges"><img loading="lazy" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white"><img loading="lazy" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white"><img loading="lazy" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=white"><img loading="lazy" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white"><img loading="lazy" alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&amp;logo=dotnet&amp;logoColor=white"><img loading="lazy" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"></div><h3>Backend Development</h3><div class="badges"><img loading="lazy" alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white"><img loading="lazy" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white"><img loading="lazy" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&amp;logo=laravel&amp;logoColor=white"><img loading="lazy" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white"></div><h3>Frontend Development</h3><div class="badges"><img loading="lazy" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&amp;logo=angular&amp;logoColor=white"><img loading="lazy" alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&amp;logo=vuedotjs&amp;logoColor=white"><img loading="lazy" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=white"><img loading="lazy" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white"><img loading="lazy" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css&amp;logoColor=white"></div><h3>Mobile Development</h3><div class="badges"><img loading="lazy" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white"><img loading="lazy" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&amp;logo=kotlin&amp;logoColor=white"><img loading="lazy" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=white"></div><h3>Databases & DevOps</h3><div class="badges"><img loading="lazy" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"><img loading="lazy" alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"><img loading="lazy" alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white"><img loading="lazy" alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"><img loading="lazy" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=white"><img loading="lazy" alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white"><img loading="lazy" alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white"><img loading="lazy" alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white"><img loading="lazy" alt="Apache" src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&amp;logo=apache&amp;logoColor=white"></div></section>
-<section><h2>💻 What I Work On</h2><div class="cards">
-<div class="card"><strong>🏦 Financial Technology</strong><p>Transaction reconciliation, payment processing, financial reporting, and enterprise integrations.</p></div>
-<div class="card"><strong>⚙️ Backend Engineering</strong><p>REST APIs, authentication, asynchronous processing, and scalable system architectures.</p></div>
-<div class="card"><strong>🌐 Full-Stack Applications</strong><p>Building and maintaining web platforms from backend services to user interfaces.</p></div>
-<div class="card"><strong>📱 Mobile Applications</strong><p>Cross-platform mobile development.</p></div>
-<div class="card"><strong>🚀 DevOps &amp; Infrastructure</strong><p>Deployment, automation, server administration, and production security.</p></div></div></section>
-<section><h2>📊 GitHub Statistics</h2><div class="stats">
-<img data-github-src="https://github-readme-stats.vercel.app/api?username={user}&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true" alt="GitHub statistics">
-<img data-github-src="https://github-readme-stats.vercel.app/api/top-langs/?username={user}&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;langs_count=8" alt="Top languages"></div></section>
-<section><h2>🔥 GitHub Streak</h2><div class="stats"><img data-github-src="https://streak-stats.demolab.com?user={user}&amp;theme=github-dark-blue&amp;hide_border=true" alt="GitHub streak"></div></section>
-<section><h2>📈 Contribution Activity</h2><div class="stats"><img data-github-src="https://github-readme-activity-graph.vercel.app/graph?username={user}&amp;theme=github-compact&amp;hide_border=true" alt="Contribution activity graph"></div></section>
-<section><h2>🚀 Featured Projects</h2>
-<div class="project"><h3>MyPrepPortal — Recruitment &amp; Career Development</h3><p>A platform connecting job seekers, recruiters, and project opportunities through skills assessments, interview preparation, and recruitment tools.</p></div>
-<div class="project"><h3>NaiPol — Prediction Market Platform</h3><p>A prediction market platform featuring event-based markets, dynamic pricing, real-time updates, and integrated payment workflows.</p></div>
-<div class="project"><h3>Enterprise Financial Reconciliation</h3><p>Financial systems supporting transaction matching, exception management, automated processing, and reporting.</p></div></section>
-<section><h2>🤝 Connect With Me</h2><div class="contact"><a href="mailto:shisokamanuel@gmail.com">✉ Email Me</a><a id="github-link" href="https://github.com/">GitHub Profile ↗</a></div></section>
-<footer><img id="views" alt="Profile views"><p><em>Building reliable systems. Solving real problems. Always learning.</em></p></footer>
-</main><script>
-// Set this to your real GitHub username to activate all stats.
-const githubUsername = "YOUR_GITHUB_USERNAME";
-if(githubUsername !== "YOUR_GITHUB_USERNAME"){
- document.querySelectorAll("[data-github-src]").forEach(img=>img.src=img.dataset.githubSrc.replaceAll("{user}",encodeURIComponent(githubUsername)));
- document.getElementById("github-link").href="https://github.com/"+encodeURIComponent(githubUsername);
- document.getElementById("views").src="https://komarev.com/ghpvc/?username="+encodeURIComponent(githubUsername)+"&label=Profile%20Views&color=0e75b6&style=flat";
-}else{
- document.querySelectorAll("[data-github-src]").forEach(img=>{const note=document.createElement("p");note.textContent=img.alt+" — set githubUsername in the HTML to display.";img.replaceWith(note);});
- document.getElementById("views").remove();
-}
-</script></body></html>
+<div align="center">
+
+# Hi there, I'm Emmanuel Shisoka 👋
+
+### Software Engineer | Full-Stack Developer | Backend & Systems Engineering
+
+[![GitHub](https://img.shields.io/badge/GitHub-Manuel254--eng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuel254-eng)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shisokamanuel@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Manuel254-eng&color=0e75b6&style=for-the-badge)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a software engineer specializing in building **scalable, secure, and reliable software systems**.
+
+My experience spans enterprise financial applications, backend architecture, financial reconciliation, payment integrations, full-stack development, and production infrastructure.
+
+I enjoy tackling complex engineering challenges, designing maintainable architectures, and transforming ideas into production-ready solutions.
+
+- 🔭 Working on full-stack applications and backend systems
+- ⚙️ Interested in software architecture, distributed systems, and fintech
+- 🚀 Experienced in building, deploying, and maintaining production applications
+- 🌱 Continuously exploring new technologies and engineering practices
+- 💬 Ask me about Java, Spring Boot, Django, Angular, Vue.js, and backend development
+- 📫 Reach me at **shisokamanuel@gmail.com**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Backend Development
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frontend Development
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+### Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+
+## 💻 Areas of Expertise
+
+- **Backend Engineering:** RESTful APIs, authentication, asynchronous processing, and scalable application architecture.
+- **Financial Technology:** Transaction reconciliation, payment integrations, financial reporting, and enterprise systems.
+- **Full-Stack Development:** End-to-end development of web applications and business platforms.
+- **Mobile Development:** Cross-platform mobile applications using Flutter and React Native.
+- **DevOps & Infrastructure:** Linux server administration, Docker, CI/CD, deployment, and production security.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 [MyPrepPortal](https://myprepportal.com)
+
+A recruitment and career development platform connecting candidates, recruiters, and project opportunities.
+
+**Key Features:**
+- Job listings and candidate matching
+- Skills assessments and interview preparation
+- Recruiter-candidate communication
+- Project-based engagements and task management
+
+**Technologies:** Django, Angular, MySQL, Redis, Celery
+
+### 📊 NaiPol — Prediction Market Platform
+
+A prediction market application built around real-world events, featuring dynamic market pricing and integrated payment workflows.
+
+**Key Features:**
+- Event-based prediction markets
+- Dynamic market pricing
+- Real-time updates
+- Wallet and transaction management
+
+**Technologies:** Django, Python, Vue.js
+
+### 🏦 Enterprise Financial Reconciliation Systems
+
+Enterprise-grade financial applications supporting transaction reconciliation, exception management, and automated reporting.
+
+**Focus Areas:**
+- Large-volume transaction processing
+- Automated and manual reconciliation
+- Financial reporting and exception management
+- Multi-source data integration
+
+**Technologies:** Java, Spring Boot, Angular, SQL
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Manuel254-eng&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Emmanuel's GitHub Stats" />
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel254-eng&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
+
+</div>
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Manuel254-eng&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manuel254-eng&theme=github-compact&hide_border=true)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in discussing software engineering, system architecture, interesting technical challenges, and opportunities to build impactful products.
+
+[![Email](https://img.shields.io/badge/Email-shisokamanuel%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shisokamanuel@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Manuel254--eng-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manuel254-eng)
+
+---
+
+<div align="center">
+
+### "Building reliable systems. Solving real problems. Always learning."
+
+</div>
