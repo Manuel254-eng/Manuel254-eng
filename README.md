@@ -1,7 +1,5 @@
 
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Emmanuel Shisoka | Software Engineer</title>
+<b>Emmanuel Shisoka | Software Engineer</b>
 <style>
 :root{color-scheme:dark}*{box-sizing:border-box}body{margin:0;background:#0d1117;color:#e6edf3;font:16px/1.7 system-ui,-apple-system,Segoe UI,sans-serif}main{max-width:1040px;margin:auto;padding:50px 24px 70px}h1{font-size:clamp(2.1rem,5vw,3.4rem);margin:0}h2{margin:48px 0 18px;font-size:1.5rem;border-bottom:1px solid #30363d;padding-bottom:10px}h3{margin:22px 0 12px;color:#b7c7d9;font-size:1rem}p{color:#aab8c6}.subtitle{font-size:1.13rem;color:#58a6ff;margin:6px 0 24px}.intro{max-width:850px}.badges{display:flex;flex-wrap:wrap;gap:8px}.badges img{height:29px;max-width:100%}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}.card{border:1px solid #30363d;border-radius:12px;padding:20px;background:#161b22}.card strong{color:#f0f6fc}.card p{margin:8px 0 0}.stats{display:flex;flex-wrap:wrap;justify-content:center;gap:14px}.stats img{max-width:100%;height:auto}.project{border-left:3px solid #238636;padding:5px 18px;margin:20px 0}.project h3{margin:0}a{color:#58a6ff}footer{text-align:center;margin-top:55px;border-top:1px solid #30363d;padding-top:24px;color:#8b949e}.hero-label{font-size:.85rem;color:#3fb950;text-transform:uppercase;letter-spacing:.12em;font-weight:700}.contact{display:flex;gap:10px;flex-wrap:wrap}.contact a{display:inline-block;background:#21262d;border:1px solid #30363d;border-radius:8px;padding:8px 16px;text-decoration:none}.contact a:hover{background:#30363d}@media(max-width:600px){main{padding:32px 18px}}
 </style></head><body><main>
