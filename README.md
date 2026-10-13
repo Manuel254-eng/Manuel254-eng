@@ -87,45 +87,6 @@ I enjoy tackling complex engineering challenges, designing maintainable architec
 
 ---
 
-## 🚀 Featured Projects
-
-### 🌐 [MyPrepPortal](https://myprepportal.com)
-
-A recruitment and career development platform connecting candidates, recruiters, and project opportunities.
-
-**Key Features:**
-- Job listings and candidate matching
-- Skills assessments and interview preparation
-- Recruiter-candidate communication
-- Project-based engagements and task management
-
-**Technologies:** Django, Angular, MySQL, Redis, Celery
-
-### 📊 NaiPol — Prediction Market Platform
-
-A prediction market application built around real-world events, featuring dynamic market pricing and integrated payment workflows.
-
-**Key Features:**
-- Event-based prediction markets
-- Dynamic market pricing
-- Real-time updates
-- Wallet and transaction management
-
-**Technologies:** Django, Python, Vue.js
-
-### 🏦 Enterprise Financial Reconciliation Systems
-
-Enterprise-grade financial applications supporting transaction reconciliation, exception management, and automated reporting.
-
-**Focus Areas:**
-- Large-volume transaction processing
-- Automated and manual reconciliation
-- Financial reporting and exception management
-- Multi-source data integration
-
-**Technologies:** Java, Spring Boot, Angular, SQL
-
----
 
 ## 📊 GitHub Statistics
 
