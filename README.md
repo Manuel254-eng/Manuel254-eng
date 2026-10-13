@@ -1,26 +1,73 @@
-### Hi there 👋 Welcome to my GitHub profile. I'm Emmanuel Shisoka , a passionate full-stack developer with expertise in various technologies. Here's a brief overview of what you'll find in my repositories:
+Emmanuel Shisoka
 
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+Software Engineer | Full-Stack Developer | Backend & Systems Engineering
 
-- 🔭**Skills**
-  
-⚡ Frontend frameworks: Vue.js, React.js
+I'm a software engineer specializing in designing, developing, and maintaining scalable applications across web, mobile, and backend environments.
 
-⚡ Backend Frameworks: Laravel, Node Js, Django, Spring boot
+My experience spans enterprise financial systems, payment integrations, reconciliation platforms, RESTful APIs, and end-to-end product development.
 
-⚡ Languages: Python,Java, PHP, C#
+I enjoy solving complex engineering challenges, designing reliable system architectures, and transforming ideas into production-ready software.
 
--⚡ Mobile Development: Kotlin, React Native, Flutter
+Technical Expertise
 
-- 📫 Feel free to reach out if you have any questions, suggestions, or just want to connect shisokamanuel@gmail.com
+Backend Development
 
-**What You'll Find Here**
+Java — Spring Boot
 
-I love to experiment with different technologies and build projects that are not only functional but also aesthetically pleasing. 
-<p align="center">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+Python — Django, Django REST Framework
 
+PHP — Laravel
 
-<a href="https://emoji.gg/emoji/4427-monsterenergydrink"><img src="https://cdn3.emoji.gg/emojis/4427-monsterenergydrink.png" width="64px" height="64px" alt="MonsterEnergyDrink"></a>
-Monster and Code
+JavaScript — Node.js
+
+RESTful APIs, authentication, and third-party integrations
+
+Frontend Development
+
+Angular
+
+Vue.js
+
+React.js
+
+JavaScript, HTML5, CSS3
+
+Mobile Development
+
+Flutter
+
+Kotlin
+
+React Native
+
+Databases & Infrastructure
+
+PostgreSQL, MySQL, MariaDB
+
+Redis, Celery
+
+Docker
+
+Apache, Nginx
+
+Linux server administration
+
+CI/CD with GitHub Actions
+
+Additional Languages
+
+C#
+
+SQL
+
+Areas of Focus
+
+Enterprise Software Engineering: Building and maintaining business-critical applications with an emphasis on reliability, maintainability, and performance.
+
+Financial Technology: Developing transaction reconciliation systems, payment integrations, financial reporting, and transaction-processing workflows.
+
+Backend Architecture: Designing secure APIs, asynchronous processing pipelines, database models, and scalable backend services.
+
+Full-Stack Product Development: Taking applications from initial architecture through development, deployment, and ongoing maintenance.
+
+DevOps & Infrastructure: Deploying, securing, and maintaining production applications on Linux-based infrastructure.
